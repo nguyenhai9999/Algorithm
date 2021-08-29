@@ -1,0 +1,14 @@
+D:\Visual Studio 2013\Winform Application C#\MP3_Media_Player\MP3_Media_Player\bin\Debug\MP3_Media_Player.exe.config
+D:\Visual Studio 2013\Winform Application C#\MP3_Media_Player\MP3_Media_Player\obj\Debug\MP3_Media_Player.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\Winform Application C#\MP3_Media_Player\MP3_Media_Player\obj\Debug\Interop.WMPLib.dll
+D:\Visual Studio 2013\Winform Application C#\MP3_Media_Player\MP3_Media_Player\obj\Debug\AxInterop.WMPLib.dll
+D:\Visual Studio 2013\Winform Application C#\MP3_Media_Player\MP3_Media_Player\obj\Debug\MP3_Media_Player.csproj.ResolveComReference.cache
+D:\Visual Studio 2013\Winform Application C#\MP3_Media_Player\MP3_Media_Player\obj\Debug\MP3_Media_Player.Form1.resources
+D:\Visual Studio 2013\Winform Application C#\MP3_Media_Player\MP3_Media_Player\obj\Debug\MP3_Media_Player.Properties.Resources.resources
+D:\Visual Studio 2013\Winform Application C#\MP3_Media_Player\MP3_Media_Player\obj\Debug\MP3_Media_Player.csproj.GenerateResource.Cache
+D:\Visual Studio 2013\Winform Application C#\MP3_Media_Player\MP3_Media_Player\bin\Debug\MP3_Media_Player.exe
+D:\Visual Studio 2013\Winform Application C#\MP3_Media_Player\MP3_Media_Player\bin\Debug\MP3_Media_Player.pdb
+D:\Visual Studio 2013\Winform Application C#\MP3_Media_Player\MP3_Media_Player\bin\Debug\Interop.WMPLib.dll
+D:\Visual Studio 2013\Winform Application C#\MP3_Media_Player\MP3_Media_Player\bin\Debug\AxInterop.WMPLib.dll
+D:\Visual Studio 2013\Winform Application C#\MP3_Media_Player\MP3_Media_Player\obj\Debug\MP3_Media_Player.exe
+D:\Visual Studio 2013\Winform Application C#\MP3_Media_Player\MP3_Media_Player\obj\Debug\MP3_Media_Player.pdb
